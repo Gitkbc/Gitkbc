@@ -68,7 +68,7 @@ I build scalable products end-to-end — from **embedded systems** to **producti
 Java, Go, Python, JavaScript/TypeScript, Dart, C/C++, R, Shell
 
 ### **Frameworks & Tools**
-Spring Boot, React, Flutter, AWS, Docker, Git/GitHub, Firebase, CI/CD,  
+Spring Boot, React, Nexy Js, Flutter, AWS, Docker, Git/GitHub, Firebase, CI/CD,  
 LiveKit, AWS Lambda, Pandas, Hadoop, Streamlit, Figma, JMeter, OAuth,  
 Google Workspace, GCP, System Design
 
@@ -99,5 +99,5 @@ ANN, Backpropagation
 
 ## 📫 Let’s Connect
 - **GitHub:** You’re already here 😉  
-- **LinkedIn:** *(add link)*  
-- **Email:** *(add email)*  
+- **LinkedIn:** https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in  
+- **Email:** chaitanyakalbhairav@gmail.com 
