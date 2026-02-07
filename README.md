@@ -12,7 +12,7 @@ I build scalable products end-to-end — from **embedded systems** to **producti
 **Vishwakarma Institute of Technology**, Pune  
 **B.Tech in Computer Science & Engineering (Artificial Intelligence)**  
 - **CGPA:** 8.52  
-- **Top SGPA:** 9.38  
+- **Last Sem SGPA:** 9.38  
 - **Duration:** Jun 2023 – Jun 2027  
 
 ---
