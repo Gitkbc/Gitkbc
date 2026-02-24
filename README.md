@@ -1,29 +1,33 @@
 # 👋 Hi, I'm C K  
 
-### AI Systems Engineer | Backend Architect | Embedded Product Builder  
+### AI Systems Engineer | Backend Architect | Embedded Systems Builder  
 
 🎓 B.Tech CSE (Artificial Intelligence) — VIT Pune (2023–2027)  
 📊 CGPA: 8.52 | Last Semester SGPA: 9.38  
 
-I build production-grade systems — from embedded firmware to distributed AI-powered cloud platforms.  
-Focused on backend engineering, real-time AI systems, and scalable architecture.
+I design and ship production-grade systems — from embedded firmware to distributed AI-powered cloud platforms.  
+My focus areas include backend engineering, real-time AI systems, scalable architectures, and multilingual AI pipelines.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitkbc&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitkbc&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitkbc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitkbc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gitkbc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitkbc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitkbc&theme=tokyonight&utcOffset=5.5)
 
 ---
 
-## 🚀 What I Build
+## 🚀 Core Engineering Focus
 
-- Real-time AI voice agents (Streaming ASR → LLM → TTS)
-- Production backend systems with deployment
-- Secure authentication systems (TOTP, OAuth)
-- Embedded hardware products (ESP32-based systems)
-- End-to-end full-stack platforms
+- Real-time AI voice systems (Streaming ASR → LLM → TTS)
+- Backend system design & production deployment
+- Secure authentication mechanisms (TOTP, OAuth)
+- Embedded hardware control systems (ESP32)
+- Context-aware multilingual AI applications
+- REST-based modular architecture design
 
 ---
 
@@ -32,17 +36,18 @@ Focused on backend engineering, real-time AI systems, and scalable architecture.
 ### Reticulo Sports Technology — Project Intern  
 📍 Pune | Oct 2024 – Dec 2024  
 
-**ESP32 Badminton Shuttle Launcher**
-- Designed closed-loop RPM control system (Embedded C/C++)
-- Achieved 1-second launch cycle
+#### 🏸 ESP32 Badminton Shuttle Launcher
+- Designed closed-loop RPM-controlled embedded system (C/C++)
+- Achieved 1-second launch cycle latency
 - Reduced manufacturing cost by 80%
-- Coordinated hardware vendors & electronics integration
+- Integrated electronics + 3D-printed mechanical components
+- Piloted with competitive All-India ranked players
 - Generated 50+ commercial pre-orders
 
-**Offline OTP Generator (RFC 6238 – TOTP)**
-- Implemented secure time-based OTP authentication
+#### 🔐 Offline OTP Generator (RFC 6238 – TOTP)
+- Implemented time-based OTP authentication logic
+- Designed secure offline validation mechanism
 - Deployed for 200+ users
-- Designed fully offline authentication mechanism
 
 ---
 
@@ -50,30 +55,37 @@ Focused on backend engineering, real-time AI systems, and scalable architecture.
 
 ### 🎙️ AI Conversational Telephony Agent
 
-**Architecture:** Streaming ASR → LLM → Token-level TTS → Live Dashboard  
+**Architecture:**  
+Streaming ASR → LLM Orchestration → Token-Level TTS → Real-Time Dashboard  
 
 **Stack:** FastAPI, React, MongoDB Atlas  
 **Integrations:** Twilio, LiveKit, Deepgram, OpenAI, Google Calendar  
 
 - Real-time AI voice call automation
-- Natural conversational scheduling
-- Meeting automation + transcript storage
-- Low-latency token streaming pipeline
-- Production-ready backend architecture
+- Token-streaming low-latency pipeline
+- Meeting scheduling + transcript persistence
+- Stateful backend orchestration
+- Production-oriented REST architecture
+
+Designed with emphasis on concurrency, response latency optimization, and scalable backend design.
 
 ---
 
-### 🌍 Gen AI Tourism Expert (Multilingual Travel Planner)
+### 🌍 Gen AI Tourism Expert — Multilingual Travel Planner
 
-**Architecture:** User Input → LLM Orchestration → Context Structuring → Itinerary Generation  
+**Architecture:**  
+User Input → LLM Orchestration Layer → Context Structuring → Itinerary Generation  
 
 **Stack:** FastAPI, React, OpenAI API, MongoDB  
 
-- AI-powered personalized travel itinerary generation
-- Selective multilingual support for destination information layer
+- AI-powered personalized itinerary generation
 - Context-aware planning (budget, duration, preferences)
-- Structured day-wise output for frontend rendering
-- Modular REST architecture for scalable expansion
+- Structured day-wise output formatting
+- Selective multilingual support for destination information layer
+- Language-aware prompt conditioning
+- Modular backend for scalable destination expansion
+
+Focused on controlled multilingual generation, structured LLM outputs, and clean separation between UI logic and language-specific content layers.
 
 ---
 
@@ -81,9 +93,9 @@ Focused on backend engineering, real-time AI systems, and scalable architecture.
 
 **Stack:** Flask, TensorFlow  
 
-- Facial emotion detection + sentiment analysis
-- ML inference → recommendation pipeline
-- Model served via REST API
+- Facial emotion detection + sentiment analysis pipeline
+- ML inference → recommendation mapping
+- REST-based model serving
 
 ---
 
@@ -112,7 +124,7 @@ Focused on backend engineering, real-time AI systems, and scalable architecture.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Embedded
+### Embedded Systems
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
@@ -120,13 +132,13 @@ Focused on backend engineering, real-time AI systems, and scalable architecture.
 
 ## 🧩 Engineering Foundations
 
-Data Structures & Algorithms  
-Object-Oriented Design  
-Operating Systems  
-DBMS & SQL  
-REST API Architecture  
-System Design  
-Authentication & Security  
+- Data Structures & Algorithms  
+- Object-Oriented Design  
+- Operating Systems  
+- DBMS & SQL  
+- REST API Design  
+- System Design  
+- Authentication & Security  
 
 ---
 
