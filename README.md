@@ -1,103 +1,143 @@
 # 👋 Hi, I’m **C K**
 
-### Software Engineer | AI & Systems | Full-Stack | Embedded
+### AI Systems Engineer | Backend Architect | Embedded Product Builder
 
-🎓 **B.Tech CSE (Artificial Intelligence)** @ VIT Pune  
-I build scalable products end-to-end — from **embedded systems** to **production-grade cloud platforms**.
+🎓 **B.Tech CSE (Artificial Intelligence)** — VIT Pune (2023–2027)  
+📊 CGPA: **8.52** | Last Semester SGPA: **9.38**
 
----
-
-## 🎓 Education
-
-**Vishwakarma Institute of Technology**, Pune  
-**B.Tech in Computer Science & Engineering (Artificial Intelligence)**  
-- **CGPA:** 8.52  
-- **Last Sem SGPA:** 9.38  
-- **Duration:** Jun 2023 – Jun 2027  
+I design and ship **production-grade systems** — from low-level embedded firmware to distributed AI-powered cloud platforms.  
+Strong focus on **backend engineering, real-time systems, and scalable architecture.**
 
 ---
 
-## 💼 Experience
+# 🚀 What I Build
 
-### **Intern (Project-Based)** — *Reticulo Sports Technology* | Pune  
-**Oct 2024 – Dec 2024**  
-📄 [Internship Letter](https://drive.google.com/file/d/1pP3l1owGkI1rMKkZDU30Ru5hswgTv4BA/view)
-
-#### **Project 1: ESP32 Badminton Shuttle Launcher**
-- Designed a **closed-loop RPM-controlled launcher** using **Embedded C/C++**
-- Achieved **1-second cycle time** and **80% lower manufacturing cost**
-- Coordinated **3D-printing vendors** and integrated electronics
-- Successfully **piloted with All-India ranked players**
-- Resulted in **50+ pre-orders**, enabling commercial launch
-
-#### **Project 2: Offline OTP Generator**
-- Implemented **TOTP (RFC 6238)** for secure offline authentication
-- Deployed for **200+ users**
+- 🔹 Real-time AI voice agents (Streaming ASR → LLM → TTS pipelines)
+- 🔹 Backend systems with production deployment
+- 🔹 Secure authentication systems (TOTP, OAuth)
+- 🔹 Embedded hardware products (ESP32, microcontrollers)
+- 🔹 End-to-end full-stack platforms
 
 ---
 
-## 🚀 Projects
+# 💼 Experience
 
-### **AI Conversational Telephony Agent**
-**Tech:** FastAPI, React, MongoDB Atlas  
-**Integrations:** Twilio, Jio CPaaS, LiveKit, Deepgram, Cartesia, OpenAI, Google Calendar
+## **Reticulo Sports Technology** — Project Intern  
+📍 Pune | Oct 2024 – Dec 2024  
 
-- Built an **AI-powered voice call agent** that:
-  - Handles inbound calls
-  - Converses naturally
-  - Schedules meetings
-  - Generates full call transcripts
-- Developed a **real-time dashboard** for:
-  - Conversation history
-  - Meeting logs
-  - Live call updates
+### 🏸 ESP32 Badminton Shuttle Launcher
+- Designed **closed-loop RPM control system** (Embedded C/C++)
+- Achieved **1-second launch cycle**
+- Reduced manufacturing cost by **80%**
+- Coordinated 3D-printing vendors and integrated electronics
+- Piloted with **All-India ranked players**
+- Generated **50+ commercial pre-orders**
 
----
-
-### **Emotion-Based Music Recommender**
-**Tech:** Flask, TensorFlow  
-
-- Recommends music using **facial emotion detection + text sentiment**
-- End-to-end ML pipeline from **inference → recommendation**
+### 🔐 Offline OTP Generator (TOTP – RFC 6238)
+- Implemented secure **Time-based OTP system**
+- Deployed to **200+ users**
+- Designed for fully offline authentication use cases
 
 ---
 
-## 🛠️ Skills
+# 🧠 Featured Projects
 
-### **Languages**
-Java, Go, Python, JavaScript/TypeScript, Dart, C/C++, R, Shell
+## 🎙️ AI Conversational Telephony Agent
 
-### **Frameworks & Tools**
-Spring Boot, React, Nexy Js, Flutter, AWS, Docker, Git/GitHub, Firebase, CI/CD,  
-LiveKit, AWS Lambda, Pandas, Hadoop, Streamlit, Figma, JMeter, OAuth,  
-Google Workspace, GCP, System Design
+**Architecture:**  
+Streaming ASR → LLM → Token-level TTS → Live Dashboard  
 
-### **Databases**
-MongoDB, PostgreSQL, MySQL, Firestore
+**Stack:** FastAPI, React, MongoDB Atlas  
+**Integrations:** Twilio, LiveKit, Deepgram, OpenAI, Google Calendar  
 
-### **Core Computer Science**
-Data Structures & Algorithms, OOP, OS, DBMS, SQL, REST APIs, ML Fundamentals
-
-### **Embedded / IoT**
-ESP32, Arduino, Microcontrollers
-
-### **Machine Learning**
-ANN, Backpropagation
+### Highlights:
+- Real-time AI voice call handling
+- Natural conversational scheduling
+- Full transcript generation
+- Meeting automation
+- Live monitoring dashboard
+- Persistent call history system
+- Designed for low-latency, scalable deployment
 
 ---
 
-## 🏆 Additional Highlights
-- Awarded **research paper** at an international conference
-- **3+ research papers published**
-- **2 Olympiad medals**
-- **10+ engineered projects**
-- Microsoft **L.S.C. Coordinator**
-- **100+ LeetCode problems**
-- **All-India Badminton Player**
+## 🎵 Emotion-Based Music Recommender
+
+**Stack:** Flask, TensorFlow  
+
+- Facial emotion detection + sentiment analysis
+- ML inference → recommendation pipeline
+- Model deployment via REST API
 
 ---
 
-## 📫 Let’s Connect
-- **GitHub:** You’re already here 😉  
-- **LinkedIn:** https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in  
-- **Email:** chaitanyakalbhairav@gmail.com 
+# 🛠️ Core Tech Stack
+
+## 🧩 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 🏗 Backend & Systems
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🔌 Embedded
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+# 🧩 Engineering Foundations
+
+- Data Structures & Algorithms
+- Object-Oriented Design
+- Operating Systems
+- DBMS & SQL
+- REST API Architecture
+- System Design
+- Authentication & Security (OAuth, TOTP)
+
+---
+
+# 🏆 Achievements
+
+- 3+ Research Papers Published
+- International Conference Paper Award
+- 100+ LeetCode Problems Solved
+- Microsoft L.S.C. Coordinator
+- 2 Olympiad Medals
+- 10+ Engineered Projects
+- All-India Level Badminton Player
+
+---
+
+# 📫 Connect
+
+- 🔗 LinkedIn:  
+  https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b  
+
+- 📧 Email:  
+  chaitanyakalbhairav@gmail.com
