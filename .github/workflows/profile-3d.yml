@@ -26,8 +26,11 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git pull --rebase
           git add -A .
-          if git commit -m "generated profile-3d-contrib"; then
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "generated profile-3d-contrib"
+            git pull --rebase
             git push
           fi
