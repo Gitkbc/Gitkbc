@@ -10,6 +10,12 @@ Strong focus on **backend engineering, real-time systems, and scalable architect
 
 ---
 
+## 📊 GitHub Activity
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 # 🚀 What I Build
 
 - 🔹 Real-time AI voice agents (Streaming ASR → LLM → TTS pipelines)
