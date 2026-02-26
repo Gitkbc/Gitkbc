@@ -13,7 +13,7 @@ Strong focus on **backend engineering, real-time systems, and scalable architect
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Gitkbc/Gitkbc/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
