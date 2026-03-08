@@ -21,7 +21,7 @@ Strong focus on **backend engineering, real-time systems, and scalable architect
 # 🌟 Flagship Project
 
 <p align="center">
-  <img src="./assets/petometo-logo.png" width="300"/>
+  <img src="./assets/Petometo.png" width="300"/>
 </p>
 
 <h2 align="center">🐾 Petometo</h2>
