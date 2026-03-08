@@ -38,13 +38,25 @@
   
   ### 🐾 Petometo: All-in-One Pet Care Platform
   
-  *Production full-stack platform connecting **pet parents** with professional **service providers**.* [🌐 Website](https://petometo.com) • [🍎 iOS App](https://apps.apple.com/us/app/petometo/id6756202185) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN)
+  *Architected and shipped the complete digital infrastructure for an early-stage startup as a **Freelance Software Engineer**.*
+  
+  [🌐 Website](https://petometo.com) • [🍎 iOS App](https://apps.apple.com/us/app/petometo/id6756202185) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN)
+  
+  <br>
+  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 </div>
 
-* **Architecture:** Flutter mobile apps, Next.js admin web platform, and a Dockerized Spring Boot backend exposing 340+ production APIs on MongoDB Atlas (Dev → Staging → Prod workflow).
-* **AI Infrastructure:** Built a GenAI content engine using AI crawlers and a LangChain video generator to create promotional media for providers, plus a Vet AI assistant for symptom-based health suggestions.
-* **Security:** Implemented JWT with refresh token rotation, BCrypt-12, JTI revocation blacklist, RBAC, and secure AWS S3 presigned uploads.
-* **Impact:** Bootstrapped 40+ app users, generated 300+ website visitors, improved SEO to ~200 daily impressions, and implemented 50+ automated transactional email workflows.
+<br>
+
+* 🚀 **Zero-to-One Architecture:** Built the startup's entire digital presence from scratch. Architected a multi-tenant platform featuring Flutter mobile apps, a Next.js admin dashboard, and a Dockerized Spring Boot backend exposing **340+ production APIs** (Dev → Staging → Prod workflow).
+* 🤖 **AI Infrastructure:** Developed a GenAI content engine using automated AI crawlers and a LangChain video generator to create promotional media for service providers. Integrated a Vet AI assistant for symptom-based pet health insights.
+* 🔐 **Enterprise Security:** Implemented a robust auth system using JWT with refresh token rotation, BCrypt-12, JTI revocation blacklisting, RBAC, and secure AWS S3 presigned upload pipelines.
+* 📈 **Startup Impact:** Successfully launched the product to market, bootstrapping **40+ active app users**, generating 300+ initial website visitors, improving SEO from 0 to ~200 daily impressions, and orchestrating 50+ automated transactional email workflows.
 
 <details>
 <summary><b>📊 View Backend Performance Metrics (JMeter)</b></summary>
@@ -80,10 +92,6 @@
 ### 🎙 AI Conversational Telephony Agent
 **Stack:** FastAPI • React • MongoDB • Twilio • LiveKit • Deepgram
 * Engineered a real-time AI voice agent capable of conversational voice calls, automated meeting scheduling, full transcript generation, and a live monitoring dashboard.
-
-### 🎵 Emotion-Based Music Recommender
-**Stack:** Flask • TensorFlow
-* Built a facial emotion detection and sentiment analysis pipeline that drives a mood-based music recommendation engine.
 
 ---
 
