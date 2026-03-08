@@ -38,7 +38,17 @@
   
   *Architected and shipped the complete digital infrastructure for an early-stage startup as a **Freelance Software Engineer**.*
   
-  [🌐 Website](https://petometo.com) • [🍎 iOS App](https://apps.apple.com/us/app/petometo/id6756202185) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN)
+  <div align="center">
+<a href="https://petometo.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Live-000000%3Fstyle%3Dfor-the-badge%26logo%3Dicloud%26logoColor%3Dwhite" />
+</a>
+<a href="https://apps.apple.com/us/app/petometo/id6756202185">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/App_Store-v1.0.3-000000%3Fstyle%3Dfor-the-badge%26logo%3Dapple%26logoColor%3Dwhite" />
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Play-v1.0.3-410093%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-play%26logoColor%3Dwhite" />
+</a>
+</div>
   
   <br>
   
