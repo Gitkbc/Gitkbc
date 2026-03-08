@@ -1,12 +1,177 @@
-# 👋 Hi, I’m **C K**
+<div align="center">
+  
+# 👋 Hi, I’m C K
 
-### AI Systems Engineer | Backend Architect | Embedded Product Builder
+**AI Systems Engineer | Backend Architect | Embedded Product Builder**
 
 🎓 **B.Tech CSE (Artificial Intelligence)** — VIT Pune (2023–2027)  
 📊 CGPA: **8.52** | Last Semester SGPA: **9.38**
 
-I design and ship **production-grade systems** — from low-level embedded firmware to distributed AI-powered cloud platforms.  
-Strong focus on **backend engineering, real-time systems, and scalable architecture.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyakalbhairav@gmail.com)
+
+*I design and ship **production-grade systems** — from embedded firmware to scalable AI-powered cloud platforms.*
+
+**Backend Systems • AI Infrastructure • Embedded Engineering**
+
+</div>
+
+---
+
+# 🛠 Core Tech Stack
+
+| 🧩 Languages | 🏗 Backend & Cloud | 🌐 Frontend | 🗄 Databases | 🔌 Embedded |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)<br>![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)<br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)<br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+
+---
+
+# 🚀 What I Build
+
+- 🔹 **Real-time AI voice agents** (Streaming ASR → LLM → TTS pipelines)  
+- 🔹 **Scalable backend systems** with production deployment & load testing  
+- 🔹 **Secure authentication systems** (JWT rotation, OAuth, TOTP)  
+- 🔹 **Embedded hardware products** (ESP32 control systems)  
+- 🔹 **End-to-end full-stack platforms** (Web + Mobile)
+
+---
+
+# 🌟 Flagship Project
+
+<div align="center">
+  <img src="./assets/Petometo.png" width="300" alt="Petometo Logo"/>
+  
+  ## 🐾 Petometo
+  
+  **All-in-One Pet Care Platform**
+
+Production full-stack platform connecting **pet parents** with professional **service providers** through mobile and web applications.
+📱 Flutter Apps • 🌐 Next.js Web • ⚙️ Spring Boot APIs • ☁️ Cloud Infrastructure
+
+
+🌐 https://petometo.com  
+🍎 https://apps.apple.com/us/app/petometo/id6756202185  
+🤖 https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN  
+
+**Production System • Real Users • Performance Tested**
+
+</div>
+
+---
+
+## ⚙️ Platform Architecture
+
+- **Flutter mobile applications** for pet parents and providers  
+- **Next.js web platform** for admin and dashboards  
+- **Spring Boot backend** exposing **340+ production APIs**  
+- **MongoDB Atlas database** with optimized queries  
+- **Dockerized deployments** with **dev → staging → production workflow**
+
+---
+
+## 🔐 Security & Infrastructure
+
+- JWT authentication  
+- Refresh token rotation  
+- BCrypt-12 hashed token storage  
+- JTI token revocation blacklist  
+- Role-based access control (RBAC)  
+- Secure AWS S3 presigned uploads  
+- Email verification + OTP authentication
+
+---
+
+## 🤖 AI Systems
+
+Petometo includes a **GenAI-powered content engine** that automatically generates marketing media for service providers.
+
+Capabilities include:
+
+- AI crawlers extracting provider data  
+- Automated marketing content generation  
+- **LangChain-based video generator**  
+- Converts provider data into **promotional videos**
+
+Additional integration:
+
+- **Vet AI assistant** for symptom-based pet health suggestions
+
+---
+
+<details>
+<summary><b>📊 Backend Performance Metrics (Apache JMeter)</b></summary>
+
+| Metric | Result |
+|------|------|
+| Virtual Users | 1000 |
+| Requests Executed | 10,000 |
+| Avg Response Time | **~81 ms** |
+| P95 Latency | **~100 ms** |
+| Throughput | **~99 req/sec** |
+| Error Rate | **~0.2%** |
+
+Performance improvements include:
+
+- HTTP caching  
+- ETag validation  
+- optimized database queries  
+
+</details>
+
+---
+
+## 📈 Product Impact
+
+- Bootstrapped **40+ mobile users**
+- Generated **300+ website visitors**
+- Improved SEO from **0 → ~200 daily impressions**
+- Enabled startup’s **first digital presence**
+- Implemented **50+ automated email workflows**
+
+---
+
+# 💼 Experience
+
+### **Project Intern** | Reticulo Sports Technology  
+📍 Pune | Oct 2024 – Dec 2024
+
+**🏸 ESP32 Badminton Shuttle Launcher**
+
+- Built closed-loop RPM control system (Embedded C/C++)
+- Achieved **1-second launch cycle**
+- Reduced manufacturing cost by **80%**
+- Piloted with **All-India ranked players**
+- Generated **50+ commercial pre-orders**
+
+**🔐 Offline OTP Generator**
+
+- Implemented **RFC-6238 TOTP authentication**
+- Deployed secure offline authentication for **200+ users**
+
+---
+
+# 🧠 Featured Projects
+
+### 🎙 AI Conversational Telephony Agent
+
+**Stack:** FastAPI • React • MongoDB • Twilio • LiveKit • Deepgram
+
+Real-time AI voice agent capable of:
+
+- conversational voice calls
+- automated meeting scheduling
+- transcript generation
+- monitoring dashboard
+
+---
+
+### 🎵 Emotion-Based Music Recommender
+
+**Stack:** Flask • TensorFlow
+
+- Facial emotion detection
+- sentiment analysis pipeline
+- music recommendation engine
 
 ---
 
@@ -18,189 +183,23 @@ Strong focus on **backend engineering, real-time systems, and scalable architect
 
 ---
 
-# 🌟 Flagship Project
+<div align="center">
 
-<p align="center">
-  <img src="./assets/Petometo.png" width="300"/>
-</p>
+## 🏆 Achievements
 
-<h2 align="center">🐾 Petometo</h2>
-<p align="center"><b>All-in-One Pet Care Platform</b></p>
+🥇 **3+ Research Papers Published**  
+🏅 **International Conference Paper Award**  
+💻 **100+ LeetCode Problems Solved**  
+⚙️ **10+ Engineered Projects Built**  
+🏸 **All-India Level Badminton Player**  
+🥇 **2 Olympiad Medals**
 
-<p align="center">
-Production full-stack platform connecting <b>pet parents</b> with professional <b>service providers</b> through mobile and web applications.
-</p>
-
-<p align="center">
-<a href="https://petometo.com">🌐 Website</a> •
-<a href="https://apps.apple.com/us/app/petometo/id6756202185">🍎 iOS App</a> •
-<a href="https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN">🤖 Android App</a>
-</p>
+</div>
 
 ---
 
-## ⚙️ Engineering Highlights
+<div align="center">
 
-- Architected a **multi-tenant backend platform** using **Spring Boot (Java)**
-- Implemented **340+ production REST APIs**
-- Built **secure authentication infrastructure (JWT + refresh token rotation)**
-- Implemented **RBAC authorization system**
-- Integrated **Razorpay payments + automated invoicing**
-- Built **secure AWS S3 presigned upload pipeline**
-- Implemented **Firebase Cloud Messaging push notifications**
-- Developed **automated transactional email infrastructure**
+💡 *Always building • Always learning • Always shipping*
 
----
-
-## 🚀 Backend Performance
-
-| Metric | Result |
-|------|------|
-| Virtual Users | 1000 |
-| Requests Executed | 10,000 |
-| Avg Response Time | **~81 ms** |
-| P95 Latency | **~100 ms** |
-| Throughput | **~99 req/sec** |
-| Error Rate | **≈0%** |
-
-Load tested using **Apache JMeter**.
-
----
-
-## 🛠 Technology Stack
-
-Spring Boot • Java • Flutter • Next.js • React • MongoDB Atlas • Docker • AWS S3 • Firebase • Razorpay
-
----
-
-# 🚀 What I Build
-
-- 🔹 Real-time AI voice agents (Streaming ASR → LLM → TTS pipelines)
-- 🔹 Backend systems with production deployment
-- 🔹 Secure authentication systems (TOTP, OAuth)
-- 🔹 Embedded hardware products (ESP32, microcontrollers)
-- 🔹 End-to-end full-stack platforms
-
----
-
-# 💼 Experience
-
-## **Reticulo Sports Technology** — Project Intern  
-📍 Pune | Oct 2024 – Dec 2024  
-
-### 🏸 ESP32 Badminton Shuttle Launcher
-- Designed **closed-loop RPM control system** (Embedded C/C++)
-- Achieved **1-second launch cycle**
-- Reduced manufacturing cost by **80%**
-- Coordinated 3D-printing vendors and integrated electronics
-- Piloted with **All-India ranked players**
-- Generated **50+ commercial pre-orders**
-
-### 🔐 Offline OTP Generator (TOTP – RFC 6238)
-- Implemented secure **Time-based OTP system**
-- Deployed to **200+ users**
-- Designed for fully offline authentication use cases
-
----
-
-# 🧠 Featured Projects
-
-## 🎙️ AI Conversational Telephony Agent
-
-**Architecture:**  
-Streaming ASR → LLM → Token-level TTS → Live Dashboard  
-
-**Stack:** FastAPI, React, MongoDB Atlas  
-**Integrations:** Twilio, LiveKit, Deepgram, OpenAI, Google Calendar  
-
-### Highlights:
-- Real-time AI voice call handling
-- Natural conversational scheduling
-- Full transcript generation
-- Meeting automation
-- Live monitoring dashboard
-- Persistent call history system
-- Designed for low-latency, scalable deployment
-
----
-
-## 🎵 Emotion-Based Music Recommender
-
-**Stack:** Flask, TensorFlow  
-
-- Facial emotion detection + sentiment analysis
-- ML inference → recommendation pipeline
-- Model deployment via REST API
-
----
-
-# 🛠️ Core Tech Stack
-
-## 🧩 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-## 🏗 Backend & Systems
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
----
-
-## 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🔌 Embedded
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-# 🧩 Engineering Foundations
-
-- Data Structures & Algorithms
-- Object-Oriented Design
-- Operating Systems
-- DBMS & SQL
-- REST API Architecture
-- System Design
-- Authentication & Security (OAuth, TOTP)
-
----
-
-# 🏆 Achievements
-
-- 3+ Research Papers Published
-- International Conference Paper Award
-- 100+ LeetCode Problems Solved
-- Microsoft L.S.C. Coordinator
-- 2 Olympiad Medals
-- 10+ Engineered Projects
-- All-India Level Badminton Player
-
----
-
-# 📫 Connect
-
-- 🔗 LinkedIn:  
-  https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b  
-
-- 📧 Email:  
-  chaitanyakalbhairav@gmail.com
+</div>
