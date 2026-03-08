@@ -7,9 +7,6 @@
 🎓 **B.Tech CSE (Artificial Intelligence)** — VIT Pune (2023–2027)  
 📊 CGPA: **8.52** | Last Semester SGPA: **9.38**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyakalbhairav@gmail.com)
-
 *I design and ship **production-grade systems** — from embedded firmware to scalable AI-powered cloud platforms.*
 
 **Backend Systems • AI Infrastructure • Embedded Engineering**
@@ -18,7 +15,7 @@
 
 ---
 
-# 🛠 Core Tech Stack
+## 🛠️ Core Tech Stack
 
 | 🧩 Languages | 🏗 Backend & Cloud | 🌐 Frontend | 🗄 Databases | 🔌 Embedded |
 | :---: | :---: | :---: | :---: | :---: |
@@ -26,180 +23,76 @@
 
 ---
 
-# 🚀 What I Build
-
-- 🔹 **Real-time AI voice agents** (Streaming ASR → LLM → TTS pipelines)  
-- 🔹 **Scalable backend systems** with production deployment & load testing  
-- 🔹 **Secure authentication systems** (JWT rotation, OAuth, TOTP)  
-- 🔹 **Embedded hardware products** (ESP32 control systems)  
-- 🔹 **End-to-end full-stack platforms** (Web + Mobile)
-
----
-
-# 🌟 Flagship Project
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="./assets/Petometo.png" width="300" alt="Petometo Logo"/>
-  
-  ## 🐾 Petometo
-  
-  **All-in-One Pet Care Platform**
-
-Production full-stack platform connecting **pet parents** with professional **service providers** through mobile and web applications.
-📱 Flutter Apps • 🌐 Next.js Web • ⚙️ Spring Boot APIs • ☁️ Cloud Infrastructure
-
-
-🌐 https://petometo.com  
-🍎 https://apps.apple.com/us/app/petometo/id6756202185  
-🤖 https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN  
-
-**Production System • Real Users • Performance Tested**
-
+  <img src="https://raw.githubusercontent.com/Gitkbc/Gitkbc/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="750"/>
 </div>
 
 ---
 
-## ⚙️ Platform Architecture
+## 🌟 Flagship Project
 
-- **Flutter mobile applications** for pet parents and providers  
-- **Next.js web platform** for admin and dashboards  
-- **Spring Boot backend** exposing **340+ production APIs**  
-- **MongoDB Atlas database** with optimized queries  
-- **Dockerized deployments** with **dev → staging → production workflow**
+<div align="center">
+  <img src="./assets/Petometo.png" width="200" alt="Petometo Logo"/>
+  
+  ### 🐾 Petometo: All-in-One Pet Care Platform
+  
+  *Production full-stack platform connecting **pet parents** with professional **service providers**.* [🌐 Website](https://petometo.com) • [🍎 iOS App](https://apps.apple.com/us/app/petometo/id6756202185) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN)
+</div>
 
----
-
-## 🔐 Security & Infrastructure
-
-- JWT authentication  
-- Refresh token rotation  
-- BCrypt-12 hashed token storage  
-- JTI token revocation blacklist  
-- Role-based access control (RBAC)  
-- Secure AWS S3 presigned uploads  
-- Email verification + OTP authentication
-
----
-
-## 🤖 AI Systems
-
-Petometo includes a **GenAI-powered content engine** that automatically generates marketing media for service providers.
-
-Capabilities include:
-
-- AI crawlers extracting provider data  
-- Automated marketing content generation  
-- **LangChain-based video generator**  
-- Converts provider data into **promotional videos**
-
-Additional integration:
-
-- **Vet AI assistant** for symptom-based pet health suggestions
-
----
+* **Architecture:** Flutter mobile apps, Next.js admin web platform, and a Dockerized Spring Boot backend exposing 340+ production APIs on MongoDB Atlas (Dev → Staging → Prod workflow).
+* **AI Infrastructure:** Built a GenAI content engine using AI crawlers and a LangChain video generator to create promotional media for providers, plus a Vet AI assistant for symptom-based health suggestions.
+* **Security:** Implemented JWT with refresh token rotation, BCrypt-12, JTI revocation blacklist, RBAC, and secure AWS S3 presigned uploads.
+* **Impact:** Bootstrapped 40+ app users, generated 300+ website visitors, improved SEO to ~200 daily impressions, and implemented 50+ automated transactional email workflows.
 
 <details>
-<summary><b>📊 Backend Performance Metrics (Apache JMeter)</b></summary>
+<summary><b>📊 View Backend Performance Metrics (JMeter)</b></summary>
+<br>
 
-| Metric | Result |
-|------|------|
-| Virtual Users | 1000 |
-| Requests Executed | 10,000 |
-| Avg Response Time | **~81 ms** |
-| P95 Latency | **~100 ms** |
-| Throughput | **~99 req/sec** |
-| Error Rate | **~0.2%** |
+| Virtual Users | Requests | Avg Response | P95 Latency | Throughput | Error Rate |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1,000 | 10,000 | **~81 ms** | **~100 ms** | **~99 req/sec** | **~0.2%** |
 
-Performance improvements include:
-
-- HTTP caching  
-- ETag validation  
-- optimized database queries  
-
+*Performance optimizations include HTTP caching, ETag validation, and optimized DB queries.*
 </details>
 
 ---
 
-## 📈 Product Impact
+## 💼 Experience
 
-- Bootstrapped **40+ mobile users**
-- Generated **300+ website visitors**
-- Improved SEO from **0 → ~200 daily impressions**
-- Enabled startup’s **first digital presence**
-- Implemented **50+ automated email workflows**
+### **Software Engineer Intern** | Reticulo Sports Technology  
+📍 *Pune | Oct 2024 – Dec 2024*
 
----
-
-# 💼 Experience
-
-### **Project Intern** | Reticulo Sports Technology  
-📍 Pune | Oct 2024 – Dec 2024
-
-**🏸 ESP32 Badminton Shuttle Launcher**
-
-- Built closed-loop RPM control system (Embedded C/C++)
-- Achieved **1-second launch cycle**
-- Reduced manufacturing cost by **80%**
-- Piloted with **All-India ranked players**
-- Generated **50+ commercial pre-orders**
-
-**🔐 Offline OTP Generator**
-
-- Implemented **RFC-6238 TOTP authentication**
-- Deployed secure offline authentication for **200+ users**
+* **ESP32 Shuttle Launcher:** Built a closed-loop RPM control system (Embedded C/C++) achieving a 1-second launch cycle. Reduced manufacturing costs by 80%, piloted with All-India ranked players, and generated 50+ pre-orders.
+* **Offline OTP Generator:** Implemented RFC-6238 TOTP authentication, deploying secure offline auth for 200+ users.
 
 ---
 
-# 🧠 Featured Projects
+## 🧠 Featured Projects
+
+### 🌍 Travel AI — Multi-Agent Multi-Lingual Itinerary Orchestrator
+**Stack:** FastAPI • LLMs • Python (asyncio) • gTTS
+* **Multi-Agent Pipeline:** Decomposed unpredictable LLM generation into a strict, 6-stage structured pipeline (Discovery, Culinary Intelligence, Ranking, Clustering, Priority, Routing).
+* **Multilingual & Audio Intelligence:** Engineered a native-script-enforced narration system with concurrent Text-to-Speech (TTS) generation for multi-language travel guides.
+* **Production-Grade Reliability:** Implemented strict JSON schema validation, deterministic scoring outside the LLM, intelligent caching, and parallel async execution to drastically reduce latency.
 
 ### 🎙 AI Conversational Telephony Agent
-
 **Stack:** FastAPI • React • MongoDB • Twilio • LiveKit • Deepgram
-
-Real-time AI voice agent capable of:
-
-- conversational voice calls
-- automated meeting scheduling
-- transcript generation
-- monitoring dashboard
-
----
+* Engineered a real-time AI voice agent capable of conversational voice calls, automated meeting scheduling, full transcript generation, and a live monitoring dashboard.
 
 ### 🎵 Emotion-Based Music Recommender
-
 **Stack:** Flask • TensorFlow
-
-- Facial emotion detection
-- sentiment analysis pipeline
-- music recommendation engine
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gitkbc/Gitkbc/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+* Built a facial emotion detection and sentiment analysis pipeline that drives a mood-based music recommendation engine.
 
 ---
 
 <div align="center">
 
-## 🏆 Achievements
+### 🏆 Achievements
+🥇 **3+ Research Papers Published** | 🏅 **International Conference Paper Award** 💻 **150+ LeetCode Problems Solved** | ⚙️ **10+ Engineered Projects Built** 🏸 **All-India Level Badminton Player** | 🥇 **2 Olympiad Medals**
 
-🥇 **3+ Research Papers Published**  
-🏅 **International Conference Paper Award**  
-💻 **100+ LeetCode Problems Solved**  
-⚙️ **10+ Engineered Projects Built**  
-🏸 **All-India Level Badminton Player**  
-🥇 **2 Olympiad Medals**
-
-</div>
-
----
-
-<div align="center">
-
-💡 *Always building • Always learning • Always shipping*
+<br>
+💡 <i>Always building • Always learning • Always shipping</i>
 
 </div>
