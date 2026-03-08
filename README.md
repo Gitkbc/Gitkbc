@@ -18,6 +18,61 @@ Strong focus on **backend engineering, real-time systems, and scalable architect
 
 ---
 
+# 🌟 Flagship Project
+
+<p align="center">
+  <img src="./assets/petometo-logo.png" width="300"/>
+</p>
+
+<h2 align="center">🐾 Petometo</h2>
+<p align="center"><b>All-in-One Pet Care Platform</b></p>
+
+<p align="center">
+Production full-stack platform connecting <b>pet parents</b> with professional <b>service providers</b> through mobile and web applications.
+</p>
+
+<p align="center">
+<a href="https://petometo.com">🌐 Website</a> •
+<a href="https://apps.apple.com/us/app/petometo/id6756202185">🍎 iOS App</a> •
+<a href="https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN">🤖 Android App</a>
+</p>
+
+---
+
+## ⚙️ Engineering Highlights
+
+- Architected a **multi-tenant backend platform** using **Spring Boot (Java)**
+- Implemented **340+ production REST APIs**
+- Built **secure authentication infrastructure (JWT + refresh token rotation)**
+- Implemented **RBAC authorization system**
+- Integrated **Razorpay payments + automated invoicing**
+- Built **secure AWS S3 presigned upload pipeline**
+- Implemented **Firebase Cloud Messaging push notifications**
+- Developed **automated transactional email infrastructure**
+
+---
+
+## 🚀 Backend Performance
+
+| Metric | Result |
+|------|------|
+| Virtual Users | 1000 |
+| Requests Executed | 10,000 |
+| Avg Response Time | **~81 ms** |
+| P95 Latency | **~100 ms** |
+| Throughput | **~99 req/sec** |
+| Error Rate | **≈0%** |
+
+Load tested using **Apache JMeter**.
+
+---
+
+## 🛠 Technology Stack
+
+Spring Boot • Java • Flutter • Next.js • React • MongoDB Atlas • Docker • AWS S3 • Firebase • Razorpay
+
+---
+
 # 🚀 What I Build
 
 - 🔹 Real-time AI voice agents (Streaming ASR → LLM → TTS pipelines)
