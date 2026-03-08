@@ -38,16 +38,20 @@
   
   *Architected and shipped the complete digital infrastructure for an early-stage startup as a **Freelance Software Engineer**.*
   
-  <div align="center">
+<div align="center">
+
 <a href="https://petometo.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Live-000000%3Fstyle%3Dfor-the-badge%26logo%3Dicloud%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Website-Live-000000?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>
+
 <a href="https://apps.apple.com/us/app/petometo/id6756202185">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/App_Store-v1.0.3-000000%3Fstyle%3Dfor-the-badge%26logo%3Dapple%26logoColor%3Dwhite" />
+<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50"/>
 </a>
+
 <a href="https://play.google.com/store/apps/details?id=com.petometo.app&hl=en_IN">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Play-v1.0.3-410093%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-play%26logoColor%3Dwhite" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"/>
 </a>
+
 </div>
   
   <br>
