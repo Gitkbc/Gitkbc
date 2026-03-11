@@ -68,7 +68,7 @@
 * 🚀 **Zero-to-One Architecture:** Built the startup's entire digital presence from scratch. Architected a multi-tenant platform featuring Flutter mobile apps, a Next.js admin dashboard, and a Dockerized Spring Boot backend exposing **340+ production APIs** (Dev → Staging → Prod workflow).
 * 🤖 **AI Infrastructure:** Developed a GenAI content engine using automated AI crawlers and a LangChain video generator to create promotional media for service providers. Integrated a Vet AI assistant for symptom-based pet health insights.
 * 🔐 **Enterprise Security:** Implemented a robust auth system using JWT with refresh token rotation, BCrypt-12, JTI revocation blacklisting, RBAC, and secure AWS S3 presigned upload pipelines.
-* 📈 **Startup Impact:** Successfully launched the product to market, bootstrapping **40+ active app users**, generating 300+ initial website visitors, improving SEO from 0 to ~200 daily impressions, and orchestrating 50+ automated transactional email workflows.
+* 📈 **Startup Impact:** Successfully launched the product to market, bootstrapping **40+ active app users**, generating 300+ initial website visitors, improving SEO from 0 to ~700 daily impressions, and orchestrating 50+ automated transactional email workflows.
 
 **📜 Letter of Appreciation:** [View Letter](https://drive.google.com/file/d/1taQg26aQZGianE783QpQXt2UBWx0gDZ3/view?usp=drivesdk)
 
