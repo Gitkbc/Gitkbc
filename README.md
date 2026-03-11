@@ -70,6 +70,8 @@
 * 🔐 **Enterprise Security:** Implemented a robust auth system using JWT with refresh token rotation, BCrypt-12, JTI revocation blacklisting, RBAC, and secure AWS S3 presigned upload pipelines.
 * 📈 **Startup Impact:** Successfully launched the product to market, bootstrapping **40+ active app users**, generating 300+ initial website visitors, improving SEO from 0 to ~200 daily impressions, and orchestrating 50+ automated transactional email workflows.
 
+**📜 Letter of Appreciation:** [View Letter](https://drive.google.com/file/d/1taQg26aQZGianE783QpQXt2UBWx0gDZ3/view?usp=drivesdk)
+
 <details>
 <summary><b>📊 View Backend Performance Metrics (JMeter)</b></summary>
 <br>
